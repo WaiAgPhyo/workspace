@@ -1,0 +1,20 @@
+.btn{
+    padding: 10px;
+    border: 1px solid #6DAC1A;
+    width: 100px;
+    border-radius: 50px;
+    margin: 0 auto;   
+}
+.btn a{
+    text-decoration: none;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6DAC1A;
+}
+.btn:hover{
+    background-color: #6DAC1A;
+}
+.btn:hover a{
+    color: #fff;
+}
